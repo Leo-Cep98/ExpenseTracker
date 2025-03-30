@@ -18,12 +18,12 @@ Expense Tracker is a command-line program written in Java that allows users to r
 ---
 ## 📚 What I practiced here
 Through this project, I worked on:
-✅ Object-Oriented Programming (OOP) concepts (classes, objects, encapsulation)
-✅ Handling user input with Scanner
-✅ Data validation and error handling using try-catch blocks
-✅ Using ArrayList to store and manage data dynamically
-✅ Implementing the toString() method to properly display object information
-✅ Working with loops and conditions to ensure a smooth user experience
+--  Object-Oriented Programming (OOP) concepts (classes, objects, encapsulation)
+--  Handling user input with Scanner
+--  Data validation and error handling using try-catch blocks
+--  Using ArrayList to store and manage data dynamically
+--  Implementing the toString() method to properly display object information
+--  Working with loops and conditions to ensure a smooth user experience
 ---
 ## 🧠 Why I built this?
 I created this Expense Tracker as a way to reinforce my Java skills, particularly in object-oriented programming (OOP). Managing expenses is a common real-world problem, and this project helps me practice handling user input, data validation, and working with collections like ArrayList.
